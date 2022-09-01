@@ -4111,6 +4111,7 @@ textarea.w-select {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    background-color: #000;
 }
 
 .utility-page-content {
